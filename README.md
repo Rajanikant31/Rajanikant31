@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajanikant R. Pawar
-- 👀 I’m interested in java
+- 👀 I’m interested in Computer Programming Langauges And Database eg. JAVA,Python,c# 
 - 🌱 I’m currently learning post graduation diploma in advance computer Engineering
-- 💞️ I’m looking to collaborate on IT companies
+- 💞️ I’m looking to collaborate with IT companies to utilize my abilities and skills for companies and my professional growth. 
 - 📫 My email address:rajanikantpawar31@gmail.com
 
 <!---
